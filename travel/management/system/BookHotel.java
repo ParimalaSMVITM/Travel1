@@ -251,5 +251,6 @@ public class BookHotel extends JFrame {
         contentPane.add(btnExit);
 
         getContentPane().setBackground(Color.WHITE);
+        System.out.println("added on 19th feb");
     }
 }
